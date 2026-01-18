@@ -11,7 +11,7 @@ Welcome to my personal portfolio. Here you'll find details about my skills, proj
 6. [Contact Information](#contact-information)
 
 ## About Me
-I am a **Java Developer** with a passion for building applications that solve real-world problems. I specialize in backend development using Java, Node.js, and related technologies, and I'm constantly learning new tools to become a better full-stack developer. I also enjoy exploring Artificial Intelligence (AI) and Web Design.
+I am a **Java Developer / Full Stack Developer** with a passion for building applications that solve real-world problems. I specialize in backend development using Java, Node.js, and related technologies, and I'm constantly learning new tools to become a better full-stack developer. I also enjoy exploring Artificial Intelligence (AI) and Web Design.
 
 - **Frontend Technologies**: HTML, CSS, JavaScript, React.js
 - **Backend Technologies**: Java, Node.js, Spring Boot, Express.js
