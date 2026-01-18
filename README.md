@@ -1,7 +1,7 @@
 # Sonu Kumar - Portfolio
 
 Welcome to my personal portfolio. Here you'll find details about my skills, projects, work experience, and other relevant information. This portfolio is built with modern web technologies to showcase my work as a Java Developer, focusing on both frontend and backend development.
-- **Visit -**: [https://sonu-kumar-in.vercel.app/]
+- **Live 👉**: [Visit](https://sonu-kumar-in.vercel.app/)
 
 ## Table of Contents
 1. [About Me](#about-me)
